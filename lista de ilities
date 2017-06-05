@@ -34,7 +34,7 @@ efficiency - daniel kiluange, felipe baruch
 evolvability
 extensibility
 failure transparency
-fault-tolerance
+fault-tolerance - Karen, Rafael Coelho
 fidelity
 flexibility - daniel kiluange, felipe baruch
 inspectability
@@ -43,11 +43,11 @@ integrity - daniel kiluange, felipe baruch
 interchangeability
 interoperability [Erl]
 learnability
-maintainability
+maintainability - Karen, Rafael Coelho
 manageability
 mobility
 modifiability
-modularity
+modularity - Karen, Rafael Coelho
 operability - daniel kiluange, felipe baruch
 orthogonality
 portability
@@ -58,7 +58,7 @@ producibility
 provability
 recoverability
 relevance
-repairability
+repairability - Karen, Rafael Coelho
 repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
@@ -70,7 +70,7 @@ seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch
-simplicity
+simplicity - Karen, Rafael Coelho
 stability
 standards compliance
 survivability
